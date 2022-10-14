@@ -1,0 +1,244 @@
+.back1 {
+  position: absolute;
+  width: 39px;
+  height: 19px;
+  left: 748px;
+  top: 75px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 19px;
+  display: flex;
+  align-items: center;
+
+  color: #8692a6;
+}
+.ria1 {
+  position: absolute;
+  width: 415px;
+  height: 36px;
+  left: 793px;
+  top: 193px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 36px;
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+.arbitrage1 {
+  position: absolute;
+  width: 411px;
+  height: 56px;
+  left: 793px;
+  top: 239px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+  /* or 156% */
+
+  display: flex;
+  align-items: center;
+
+  color: #8692a6;
+}
+.name1 {
+  position: absolute;
+  width: 113px;
+  height: 19px;
+  left: 793px;
+  top: 325px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  display: flex;
+  align-items: center;
+
+  color: #696f79;
+}
+.input11 {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 426px;
+  height: 64px;
+  left: 793px;
+  top: 368px;
+
+  background: #ffffff;
+  border: 1px solid #1565d8;
+  box-shadow: 0px 4px 10px 3px rgba(0, 0, 0, 0.11);
+  border-radius: 6px;
+}
+.email1 {
+  position: absolute;
+  width: 115px;
+  height: 19px;
+  left: 793px;
+  top: 450px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  display: flex;
+  align-items: center;
+
+  color: #696f79;
+}
+.input21 {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 426px;
+  height: 64px;
+  left: 793px;
+  top: 489px;
+
+  border: 1px solid #8692a6;
+  border-radius: 6px;
+}
+.password1 {
+  position: absolute;
+  width: 139px;
+  height: 19px;
+  left: 793px;
+  top: 570px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  display: flex;
+  align-items: center;
+
+  color: #696f79;
+}
+.input31 {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 426px;
+  height: 64px;
+  left: 793px;
+  top: 610px;
+
+  border: 1px solid #8692a6;
+  border-radius: 6px;
+}
+.button1 {
+  position: absolute;
+  width: 426px;
+  height: 64px;
+  left: 793px;
+  top: 756px;
+  color: white;
+  background: #1565d8;
+  border-radius: 6px;
+}
+.divider1 {
+  position: absolute;
+  width: 14px;
+  height: 15px;
+  left: 998px;
+  top: 845px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  /* identical to box height */
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #bababa;
+}
+.google1 {
+  position: absolute;
+  width: 426px;
+  height: 64px;
+  left: 793px;
+  top: 885px;
+  background: #ffffff;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.08);
+  border-radius: 6px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.text111 {
+  padding-right: 100px;
+}
+.ri1 {
+  position: absolute;
+  width: 106px;
+  height: 19px;
+  left: 1243px;
+  top: 96px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 19px;
+  display: flex;
+  align-items: center;
+  text-align: right;
+
+  color: #8692a6;
+}
+.side1 {
+  position: absolute;
+  width: 79px;
+  height: 17px;
+  left: 1270px;
+  top: 75px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  /* identical to box height */
+
+  display: flex;
+  align-items: center;
+  text-align: right;
+
+  color: #bdbdbd;
+}
+
+.terms1 {
+  position: absolute;
+
+  height: 19px;
+  left: 827px;
+  top: 698px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  display: flex;
+  align-items: center;
+
+  color: #696f79;
+}

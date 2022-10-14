@@ -1,0 +1,238 @@
+.arrow2 {
+  position: absolute;
+  left: 25.69%;
+  right: 25.69%;
+  top: 8.75%;
+  bottom: 8.75%;
+}
+
+.back2 {
+  position: absolute;
+  width: 39px;
+  height: 19px;
+  left: 748px;
+  top: 75px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 19px;
+  display: flex;
+  align-items: center;
+
+  color: #8692a6;
+}
+.CYP2 {
+  position: absolute;
+  width: 330px;
+  height: 36px;
+  left: 793px;
+  top: 193px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 36px;
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+.arbitrage2 {
+  position: absolute;
+  width: 411px;
+  height: 56px;
+  left: 793px;
+  top: 239px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+  /* or 156% */
+
+  display: flex;
+  align-items: center;
+
+  color: #8692a6;
+}
+.phoneNumber2 {
+  position: absolute;
+  width: 112px;
+  height: 19px;
+  left: 793px;
+  top: 328px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  display: flex;
+  align-items: center;
+
+  color: #696f79;
+}
+.input12 {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 426px;
+  height: 64px;
+  left: 793px;
+  top: 368px;
+
+  background: #ffffff;
+  border: 1px solid #1565d8;
+  box-shadow: 0px 4px 10px 3px rgba(0, 0, 0, 0.11);
+  border-radius: 6px;
+}
+.address2 {
+  position: absolute;
+  width: 101px;
+  height: 19px;
+  left: 793px;
+  top: 448px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  display: flex;
+  align-items: center;
+
+  color: #696f79;
+}
+.input22 {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 426px;
+  height: 64px;
+  left: 793px;
+  top: 489px;
+
+  border: 1px solid #8692a6;
+  border-radius: 6px;
+}
+.country2 {
+  position: absolute;
+  width: 162px;
+  height: 19px;
+  left: 793px;
+  top: 568px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  display: flex;
+  align-items: center;
+
+  color: #696f79;
+}
+.input32 {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 426px;
+  height: 64px;
+  left: 793px;
+  top: 610px;
+
+  border: 1px solid #8692a6;
+  border-radius: 6px;
+}
+.button2 {
+  position: absolute;
+  width: 426px;
+  height: 64px;
+  left: 793px;
+  top: 726px;
+  color: white;
+  background: #1565d8;
+  border-radius: 6px;
+}
+.belowB2 {
+  position: absolute;
+  height: 15px;
+  left: 65.42%;
+  right: 24.24%;
+  top: calc(50% - 15px / 2 + 314.5px);
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  /* identical to box height */
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #8692a6;
+}
+.side2 {
+  position: absolute;
+  width: 81px;
+  height: 17px;
+  left: 1268px;
+  top: 75px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  /* identical to box height */
+
+  display: flex;
+  align-items: center;
+  text-align: right;
+
+  color: #bdbdbd;
+}
+.ri2 {
+  position: absolute;
+  width: 119px;
+  height: 19px;
+  left: 1230px;
+  top: 96px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 19px;
+  display: flex;
+  align-items: center;
+  text-align: right;
+
+  color: #8692a6;
+}
+.safe2 {
+  position: absolute;
+  height: 15px;
+  left: 930px;
+  right: 24.24%;
+  top: 800px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  /* identical to box height */
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #8692a6;
+}
